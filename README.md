@@ -1,3 +1,3 @@
 # Mt.Merapi-Public
 
-https://zenodo.org/badge/latestdoi/247948914
+https://zenodo.org/badge/247948914.svg

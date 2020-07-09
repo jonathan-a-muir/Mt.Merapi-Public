@@ -6,7 +6,7 @@ Step 1: From the main GitHub page, click on green colored "Code" tab
 
 Step 2: At the bottom of the drop down menu, select "Download Zip"
 
-Step 3: Locate and unzip ed zip file on your computer
+Step 3: Locate and then unzip the zip file on your computer
 
 Step 4: In the data folder, select either the .csv or .sav data file for use
 
